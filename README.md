@@ -64,17 +64,16 @@ HelloCV/
 
 ---
 
-##  第二周学习内容
+# 第二周学习内容
 
-### 📚学习重点
+## 学习重点
 - **Docker容器技术**
-- **CMake构建工具**  
+- **CMake构建工具**
 - **C++文本加密工具开发**
 
-###  语雀笔记链接
+## 语雀笔记链接
 
-| 文档名称 | 语雀链接 |
-|----------|----------|
+
 | Docker学习笔记 | [https://www.yuque.com/yuqueyonghumsoip1/pil2rg/xrvxdhh5ntgyzkmr] |
-| CMake学习笔记与实践任务上 | [https://www.yuque.com/yuqueyonghumsoip1/pil2rg/wbtwwqs736ntmwi1] |
-| 实践任务下：C++文本加密工具实践 | [https://www.yuque.com/yuqueyonghumsoip1/pil2rg/zbsw4q8kinvp0lt] |
+| CMake学习笔记与实践任务上 | [https://www.yuque.com/yuqueyonghumsoip1/pil2rg/wbtwwgs736ntmwi1] |
+| 实践任务下：C++文本加密工具实践 | [https://www.yuque.com/yuqueyonghumsoip1/pil2rg/zbsw4q8kinypelt] |
