@@ -66,7 +66,7 @@ HelloCV/
 ## 汇总链接
 克隆本仓库：`git clone https://github.com/Saturday-boyi/HelloCV.git`
 
-# 第二周学习内容
+### 第二周学习内容
 
 ## 学习重点
 - Docker容器技术
@@ -80,7 +80,7 @@ HelloCV/
 | 实践任务下：C++文本加密工具实践 | https://www.yuque.com/yuqueyonghumsoip1/pil2rg/zbsw4q8kinvp0lft |
 
 
-### 第三周学习内容 - OpenCV  ← 新增
+# 第三周学习内容 - OpenCV  ← 新增
 |opencv学习笔记| https://www.yuque.com/yuqueyonghumsoip1/nafb5e/aznk38tya3x67bl2?#《opencv学习笔记》 |
 | 第三周实践任务——Traffic Light | https://www.yuque.com/yuqueyonghumsoip1/nafb5e/zgmvrg6b8lz1h17m?#《第三周实践任务——Traffic Light》|
 
