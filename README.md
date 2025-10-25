@@ -1,4 +1,4 @@
-# HelloCV - 第二阶段任务完成
+# HelloCV - 第二阶段任务完成（已更新到第三周）
 
 ## 项目概述
 这是哈工大威海创新平台第二阶段学习考核中我的实践成果，包括以下内容
@@ -11,6 +11,8 @@ Ubuntu安装与Linux指令学习
 Docker容器技术
 CMake构建工具的学习笔记
 C＋＋加密文本项目构建
+- C++加密文本项目构建
+- **OpenCV图像处理与交通信号灯检测** 
 
 
 ## 环境配置
@@ -26,7 +28,6 @@ C＋＋加密文本项目构建
 
 
 ## 项目结构
-```
 HelloCV/
 ├── README.md              # 项目说明文档
 ├── docs/                  # 学习笔记文档
@@ -46,7 +47,11 @@ HelloCV/
     ├── CMakeLists.txt
     ├── src/
     └── include/
-
+    
+└── 交通信号灯检测/
+│       ├── traffic_light_detector.cpp
+│       └── result.avi
+└── README.md
 
 
 
@@ -73,3 +78,27 @@ HelloCV/
 | Docker学习笔记 | [https://www.yuque.com/yuqueyonghumsoip1/pil2rg/xrvxdhh5ntgyzkmr] |
 | CMake学习笔记与实践任务上 | [https://www.yuque.com/yuqueyonghumsoip1/pil2rg/wbtwwqs7s6ntmwi1] |
 | 实践任务下：C++文本加密工具实践 | https://www.yuque.com/yuqueyonghumsoip1/pil2rg/zbsw4q8kinvp0lft |
+
+
+### 第三周学习内容 - OpenCV  ← 新增
+|opencv学习笔记| https://www.yuque.com/yuqueyonghumsoip1/nafb5e/aznk38tya3x67bl2?#《opencv学习笔记》 |
+| 第三周实践任务——Traffic Light | https://www.yuque.com/yuqueyonghumsoip1/nafb5e/zgmvrg6b8lz1h17m?#《第三周实践任务——Traffic Light》|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
