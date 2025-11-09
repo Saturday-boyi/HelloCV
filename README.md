@@ -1,4 +1,4 @@
-# HelloCV - 第二阶段任务完成（已更新到第三周）
+# HelloCV - 第二阶段任务完成（已更新到第四周）
 
 ## 项目概述
 这是哈工大威海创新平台第二阶段学习考核中我的实践成果，包括以下内容
@@ -80,14 +80,19 @@ HelloCV/
 | 实践任务下：C++文本加密工具实践 | https://www.yuque.com/yuqueyonghumsoip1/pil2rg/zbsw4q8kinvp0lft |
 
 
-# 第三周学习内容 - OpenCV  ← 新增
+# 第三周学习内容 - OpenCV  
 |opencv学习笔记|          https://www.yuque.com/yuqueyonghumsoip1/nafb5e/aznk38tya3x67bl2?#《opencv学习笔记》             |
 
 
 | 第三周实践任务——Traffic Light |          https://www.yuque.com/yuqueyonghumsoip1/nafb5e/zgmvrg6b8lz1h17m?#《第三周实践任务——Traffic Light》        |
 
 
+# 第三周学习内容 - ros2
 
+|ros2|                 https://www.yuque.com/g/yuqueyonghumsoip1/cei95t/xbru82928beho45w/collaborator/join?token=KoVuHT5DIukCfAZa# 邀你加入文档「ros2学习笔记」(可阅读) 
+
+
+| gazebo|              https://www.yuque.com/yuqueyonghumsoip1/cei95t/fwgktq3drg5i99lx?#《gazebo学习笔记》
 
 
 
